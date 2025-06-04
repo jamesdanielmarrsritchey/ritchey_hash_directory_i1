@@ -1,0 +1,1 @@
+# ritchey_hash_directory_i1
