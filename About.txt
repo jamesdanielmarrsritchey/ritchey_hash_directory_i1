@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey Hash Directory
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Hash Directory i1 v1
+SHORT IDENTIFIER: RHDi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Hash Directory is a user-defined PHP function for hashing all file data in a directory as a single data input.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started June 4, 2025.
+- Version 1 started June 4, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Uses an array to store the list of files it needs to process.
+
+Other:
+- Tested on Debian 12 AMD64.
